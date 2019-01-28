@@ -22,8 +22,8 @@ SkyWalking可以在多种多样的环境中运行。并表现良好。包括 （
 
 # What is next? 下一步？
 
-- 阅读 [探针](probe-introduction.md) 进一步了解SkyWalking的探针组
+- 阅读 [探针](probe-introduction-cn.md) 进一步了解SkyWalking的探针组
 
-- 阅读 [后端系统](backend-overview.md), 你可以了解到后端系统在收到探针发回的数据后做了哪些事情
+- 阅读 [后端系统](backend-overview-cn.md), 你可以了解到后端系统在收到探针发回的数据后做了哪些事情
 
-- 如果你想自定义UI，你可以阅读[UI概述](ui-overview.md)
+- 如果你想自定义UI，你可以阅读[UI概述](ui-overview-cn.md)
